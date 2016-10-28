@@ -1,0 +1,28 @@
+The questions that go with Assignment 0, Spring 2015:
+
+
+1.  What high-level language do you prefer for programming?
+
+
+Currently I prefer Java.
+2.  Why are you enrolled in CS/ECE 354?
+
+
+Because this is a very important course for Computer Science students.
+3.  Have you completed the prerequisites for CS/ECE 354
+(CS 302 and CS/ECE 252) ?
+
+
+Yes I have.
+4.  Have you taken CS 367?
+Yes, I took it last semester.
+
+
+
+5.  How much time did/will this assignment take you to complete?
+About 30 minutes.
+
+6.  What parts of this assignment gave you the most trouble? Why?
+
+
+I need to figure out how to run and test the c program in Windows. And I looked it up online.
